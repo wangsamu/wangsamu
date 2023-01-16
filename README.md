@@ -1,7 +1,8 @@
-### Hi there, I'm Samuel! 👋
+### Hi there, I'm Samuel! 
+     I'm a software developer.👋
 
-- 🌱 I'm working on my TypeScript skills and learning GraphQL.
-- 🌮 I love solving problems and buiding stuff!
-- ⚡ Fun fact: I speak 5 languages, working on my German currently.
+- 🌱 I'm working on my TypeScript and testing skills.
+- 🌮 I love solving problems, creating and automating stuff!
+- ⚡ I  also love languages, I speak 4 fluently ans I'm learning German.
 - 📫 How to reach me:  [My Portfolio](https://wangsamu.com) |  [LinkedIn](https://linkedin.com/in/wangsamu)
 
